@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstruturasRepeticao", "EstruturasRepeticao.csproj", "{1A990B50-DA9C-46E7-90AF-A19E87293782}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A990B50-DA9C-46E7-90AF-A19E87293782}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A990B50-DA9C-46E7-90AF-A19E87293782}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A990B50-DA9C-46E7-90AF-A19E87293782}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A990B50-DA9C-46E7-90AF-A19E87293782}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
